@@ -22,3 +22,7 @@ npm install
 
 # Step 5: Start the development server
 npm run android
+
+# Download APK
+
+https://drive.google.com/file/d/1iFbhMBfuC-wA1THafyYR1DWVfOMe6Q3N/view
