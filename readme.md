@@ -7,8 +7,9 @@ A React Native application built with **Expo** that allows users to create, mana
 Ensure you have Node.js installed. Then follow these steps to set up and run the project:
 
 ```bash
-# Step 1: Create the app using Expo template
-npx create-expo-app healthflextimer --template
+
+# Step 1: Clone the repository
+git clone https://github.com/Aswinn3/healthflextimer.git
 
 # Step 2: Navigate to project folder
 cd healthflextimer
@@ -16,5 +17,8 @@ cd healthflextimer
 # Step 3: Install Expo CLI globally (if not already installed)
 npm install -g expo-cli
 
-# Step 4: Start the development server
+# Step 4: Install dependencies
+npm install
+
+# Step 5: Start the development server
 npm run android
