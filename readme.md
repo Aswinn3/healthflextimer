@@ -1,4 +1,4 @@
-# ⏱️ React Native Timer App
+# React Native Timer App
 
 A React Native application built with **Expo** that allows users to create, manage, and interact with multiple customizable timers grouped by categories. The app supports progress visualization, bulk actions, timer history, and minimal third-party dependencies.
 
